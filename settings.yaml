@@ -92,8 +92,8 @@ theme:
       name: mode_color_light
       label: 主题色（浅色）
       type: text
-      default: "#e62828"
-      placeholder: "浅色主题色色值，默认#e62828"
+      default: "#fb6c28"
+      placeholder: "浅色主题色色值，默认#fb6c28"
     mode_color_dark:
       name: mode_color_dark
       label: 主题色（暗黑）

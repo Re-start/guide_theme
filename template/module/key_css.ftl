@@ -36,7 +36,7 @@
     </#if>
   }
   html body {
-    --theme: ${settings.mode_color_light!'#e62828'};
+    --theme: ${settings.mode_color_light!'#fb6c28'};
     font-family: "Joe Font", "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, "sans-serif";
   }
   html[data-mode='dark'] body {
